@@ -28,7 +28,8 @@
 # Shellsort: Algoritmo de ordenamiento que mejora la eficiencia de insercion, comparando elementos separados por un intervalo.
 
 #INTEGRANTES:
-# Nombre: Eduardo Tovar
+# Nombre: Eduardo Tovar 28138831
+# Nombre: Luis León 31139586
 
 #----------------CLASES NECESARIAS PARA EL FUNCIONAMIENTO DEL PROGRAMA------------------
 # Clase Descarga: Representa una descarga individual con sus atributos.
